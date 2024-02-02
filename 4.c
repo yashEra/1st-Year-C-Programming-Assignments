@@ -3,8 +3,6 @@
 
 /**
     * Question - 4
-    * Y. E. Y. Amarasekara
-    * CST/20/073
 **/
 
 int notesVal[6] = {5000, 1000, 500, 100 , 50 , 20};
