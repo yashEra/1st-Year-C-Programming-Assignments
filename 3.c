@@ -4,8 +4,6 @@
 
 /**
     * Question - 3
-    * Y. E. Y. Amarasekara
-    * CST/20/073
 **/
 
 int choice;
