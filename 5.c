@@ -2,8 +2,6 @@
 
 /**
     * Question - 5
-    * Y. E. Y. Amarasekara
-    * CST/20/073
 **/
 
 char sNames[10][10];
