@@ -3,8 +3,6 @@
 /**
     * Question - 1
     * Electricity bill
-    * Y. E. Y. Amarasekara
-    * CST/20/073
 **/
 
 int startingMeeter;
