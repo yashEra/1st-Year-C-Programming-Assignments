@@ -2,7 +2,7 @@
 
 /**
     * Question - 1
-    * Electricity bill
+    * Electricity Bill
 **/
 
 int startingMeeter;
